@@ -17,7 +17,7 @@ Description:
 • Salesperson performance metrics
 
 📊 Dashboard Highlights
-Business Summary KPIs
+Business Summary KPIs:
 • Total Revenue: ₹6.18M
 • Boxes Shipped: 177,007
 • Shipment Count: 1,094
@@ -38,3 +38,8 @@ Top 10 Salespersons
 • Sales are well-distributed across multiple countries, reducing dependency on a single market
 • Strong shipment volume indicates efficient distribution operations
 • Top salesperson analysis supports incentive planning and sales strategy optimization
+
+### 6. Screenshots / Demos
+Show what the dashboard looks like. -   
+Example: <img width="2109" height="1428" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/291767b5-71d6-42a8-8ca0-f46bdd90e2ca" />
+
